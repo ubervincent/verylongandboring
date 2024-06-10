@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Vincent Lam",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Rigorously Curious Engineer",
-    bio: "I figured out humans. Now I am learning how to build product and system to reduce suffering in humans.",
+    role: "first princple tech guy",
+    bio: "I am learning how to build product and system to make resources more abundant and people more awake.",
     email: "lamming0912@gmail.com",
     linkedin: "",
     github: "ubervincent",
@@ -23,8 +23,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "my-blog-6i4ro542v-ubervincents-projects.vercel.app",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
